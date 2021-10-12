@@ -3,3 +3,5 @@ nama.txt
 alamat.txt
 
 ini adalah percobaan merge leawat git 
+
+ini adalah branch devjen3
