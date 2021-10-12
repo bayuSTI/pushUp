@@ -1,1 +1,6 @@
 nama saya bayu putra
+<<<<<<< HEAD
+=======
+Ganteng
+Sangat
+>>>>>>> 19073f58eb3b39205fba59a5e35661a53c57f52e
