@@ -1,3 +1,5 @@
 Halo this is spartas
 nama.txt
 alamat.txt
+
+ini adalah percobaan merge leawat git 
